@@ -1,0 +1,7 @@
+cavalo;
+egua;
+boi;
+
+
+
+urso;
